@@ -3,16 +3,13 @@
 ## 🚀 Tech Stack
 
 ### 💻 Frontend
-- **Languages:** HTML, CSS, SCSS, JavaScript (ES6+)
+- **Languages:** HTML, CSS, SCSS, JavaScript
 - **Frameworks/Libraries:** React.js, jQuery
-- **Tools:** Visual Studio Code, Sublime Text
-- **Design:** AdobeXD, Figma
+- **Design:** Figma
 
 ### 🌐 Backend
 - **Languages:** Node.js, Python (Django)
 - **Frameworks:** Express.js
-- **Server-side scripting:** Python (Django)
-- **APIs:** RESTful APIs
 
 ### 🗃 Database
 - **Databases:** MongoDB
@@ -20,23 +17,11 @@
 
 ### 📊 Data Science/Statistics
 - **Languages:** R
-- **Libraries:** (Include any relevant statistical libraries)
 
 ### ⚙️ Version Control
 - **VCS:** Git
-- **Platforms:** GitHub
-
-### 📱 Mobile
-- **Framework:** React Native
-
-### 🐳 DevOps
-- **Containerization:** Docker
+- **Platforms:** GitHub, Gitlab
 
 ### 🛠 Other Tools
-- **Collaboration:** GitLab (if applicable)
-- **Documentation:** (Any relevant documentation tools)
+- **IDE:** Visual Studio Code
 
-### 📚 Additional Skills
-- (List any additional skills or technologies you are proficient in)
-
-Feel free to customize this according to your actual proficiency and preferences!
