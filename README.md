@@ -8,11 +8,11 @@
 - **Design:** Figma
 
 ### 🌐 Backend
-- **Languages:** Node.js, Python (Django)
-- **Frameworks:** Express.js
+- **Languages:** Node.js, Python
+- **Frameworks:** Express.js, Django, Flask
 
 ### 🗃 Database
-- **Databases:** MongoDB
+- **Databases:** MongoDB, SQlite, mySQL
 - **Query Language:** Mongoose
 
 ### 📊 Data Science/Statistics
